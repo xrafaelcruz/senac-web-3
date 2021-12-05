@@ -1,0 +1,17 @@
+.modal-login {
+    border: 1px solid #ced4da;
+    bottom: 0;
+    border-radius: 5px;
+    height: 350px;
+    left: 0;
+    margin: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 300px;
+    z-index: 100;
+}
+
+.modal-login label {
+    color: #fff;
+}

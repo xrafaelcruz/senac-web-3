@@ -1,0 +1,8 @@
+.show {
+    display: block !important;
+    margin: 0;
+}
+
+.show p {
+    margin: 0;
+}

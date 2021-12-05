@@ -1,0 +1,31 @@
+[
+  {
+    "comments": [
+      {
+        "username": "rafaelcruz",
+        "text": "comentário1"
+      },
+      {
+        "username": "rafaelcruz",
+        "text": "b"
+      },
+      {
+        "username": "edecio",
+        "text": "kk"
+      },
+      {
+        "username": "rafaelcruz",
+        "text": "a"
+      }
+    ],
+    "title": "post1",
+    "text": "texto1",
+    "id": 0
+  },
+  {
+    "comments": [],
+    "title": "post2",
+    "text": "texto2",
+    "id": 1
+  }
+]
